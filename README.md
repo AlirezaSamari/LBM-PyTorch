@@ -1,1 +1,1 @@
-# LBM-PyTorch
+# LBM-PyTorch Implementation
