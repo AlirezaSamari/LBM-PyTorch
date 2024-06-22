@@ -1,1 +1,1 @@
-# LBM-PyTorch Implementation
+# Lattice Boltzmann Method - PyTorch Implementation
