@@ -1,1 +1,2 @@
-# Lattice Boltzmann Method - PyTorch Implementation
+## Lattice Boltzmann Method (LBM) - PyTorch Implementation
+![](Cavity.png)
